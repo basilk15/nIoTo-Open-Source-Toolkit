@@ -1,6 +1,6 @@
 # nIoTo — Open-Source IoT Toolkit
 <p align="center">
-  <img src="assets/logo_project.png" alt="nIoTo Logo" width="500">
+  <img src="assets/logo_project_2.png" alt="nIoTo Logo" width="500">
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
