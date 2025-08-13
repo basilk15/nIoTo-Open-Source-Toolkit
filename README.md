@@ -2,6 +2,7 @@
 <p align="center">
   <img src="assets/logo_project.png" alt="nIoTo Logo" width="200">
 </p>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![ESP32](https://img.shields.io/badge/ESP32-Supported-blue)
 ![AWS IoT](https://img.shields.io/badge/AWS%20IoT-Integrated-orange)
