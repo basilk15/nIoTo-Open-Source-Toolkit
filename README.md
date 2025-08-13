@@ -81,10 +81,10 @@
 
 ## Credits
 
-- **Firmware** – Basil Khowaja (ESP32 architecture, AWS integration, sensor optimization)
-- **Hardware** – Vishal Raj Sundrani (PCB, power system, enclosure)
+- **Firmware** – Basil Khowaja (ESP32 firmware & AWS integration)
+- **Hardware** – Vishal Raj Sundrani (Sensor & Hardware Integration)
 - **Academic Guidance** – Sir Tariq Mumtaz, Habib University
 
 ---
 
-> _For full setup, advanced configurations, and sensor calibration details, see the_ [IoT Toolkit Manual](word IoT Toolkit Manual - AWS Cloud Integration.pdf).
+> _For full setup, advanced configurations, and sensor calibration details, see the_ [IoT Toolkit Manual](word%20IoT%20Toolkit%20Manual%20-%20AWS%20Cloud%20Integration.pdf).
