@@ -87,4 +87,4 @@
 
 ---
 
-> _For full setup, advanced configurations, and sensor calibration details, see the_ [IoT Toolkit Manual](docs/IoT_Toolkit_Manual.pdf).
+> _For full setup, advanced configurations, and sensor calibration details, see the_ [IoT Toolkit Manual](word IoT Toolkit Manual - AWS Cloud Integration.pdf).
